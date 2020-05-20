@@ -1,5 +1,5 @@
 # Trabalho-Caixa-de-Cores
-Trabalho da Igti
+Trabalho da Igti - Módulo 1 - Curso Bootcamp de Desenvolvimento FullStack.
 
 
 - Um trabalho com o intuito de criar um refinador de RGB apenas usando evento do Javascript.
