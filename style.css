@@ -1,0 +1,78 @@
+/* configurações dos botões */
+
+.handlerDiv {
+    margin-top: 25px;
+    margin-left: 25px;
+    
+}
+
+.label {
+    font-weight: bold;
+    
+}
+
+.inputText {
+    left: 460px; 
+    position: fixed;
+    width: 30px;
+}
+
+.buttonDiv {
+    margin-top: 25px;
+    margin-left: 25px;
+    
+    
+}
+
+
+ /* isso é configuração da caixa que recebe as cores */
+.coloredBox {
+    left: 140px; 
+    position: fixed;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;    
+    background-color: rgb(0, 0, 0);
+    border-radius: 10%;
+}
+
+/* refinando a barra de cor de valor para ficar bonita */
+
+
+.handlerInput {
+    -webkit-appearance: none;
+    left: 140px; 
+    position: fixed;
+    width: 300px;
+    height: 15px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  
+  .handlerInput:hover {
+    opacity: 1;
+  }
+  
+  .handlerInput::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: black;
+    cursor: pointer;
+  }
+  
+  .handlerInput::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
+  }
+
+  /* até aqui, é refinamento da barra de valor */
