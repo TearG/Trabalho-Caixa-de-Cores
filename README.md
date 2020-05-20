@@ -2,6 +2,6 @@
 trabalho da Igti
 
 
-Um trabalho com o intutio de criar um refinador de RGB apenas usando evento do Javascript.
+Um trabalho com o intuito de criar um refinador de RGB apenas usando evento do Javascript.
 
 https://caixacores.netlify.app/
